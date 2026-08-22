@@ -70,3 +70,6 @@ jupyter notebook analise_atrasos.ipynb
 ├── novas_ordens.csv          # ordens novas a prever
 └── assets/                   # gráficos gerados pelo notebook
 ```
+
+
+Apenas para estudos
