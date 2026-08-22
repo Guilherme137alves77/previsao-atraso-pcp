@@ -1,0 +1,11 @@
+id_ordem,mes,produto,maquina,turno,quantidade_pecas,tempo_setup_min,horas_maquina_previstas,prioridade,materia_prima_ok,operadores_alocados,taxa_refugo_pct,paradas_manutencao_mes,dias_ate_prazo
+OP-00001,10,Carcaça,Mandrilhadora-A,Noite,3261,142.0,135.3,Alta,Sim,6,4.83,4,25
+OP-00002,10,Carcaça,CNC-01,Manhã,3052,94.0,32.43,Alta,Não,5,1.48,0,14
+OP-00003,9,Flange,CNC-01,Tarde,3840,51.0,156.64,Urgente,Sim,5,4.05,5,3
+OP-00004,4,Eixo,Mandrilhadora-A,Noite,2369,93.0,75.74,Média,Sim,1,0.6,2,22
+OP-00005,8,Eixo,Torno-03,Tarde,2962,88.0,79.76,Alta,Não,1,6.68,0,10
+OP-00006,6,Eixo,CNC-02,Manhã,3450,114.0,54.18,Baixa,Não,2,5.57,0,43
+OP-00007,9,Engrenagem,CNC-01,Tarde,3266,118.0,148.5,Urgente,Sim,5,5.37,2,13
+OP-00008,7,Eixo,CNC-01,Manhã,3714,51.0,45.03,Alta,Sim,1,6.86,5,12
+OP-00009,12,Carcaça,CNC-02,Tarde,392,148.0,5.7,Urgente,Sim,3,1.54,3,22
+OP-00010,10,Engrenagem,CNC-01,Noite,4653,83.0,203.99,Média,Sim,3,7.76,2,17
